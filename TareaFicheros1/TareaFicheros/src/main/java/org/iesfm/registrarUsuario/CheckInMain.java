@@ -15,13 +15,15 @@ public class CheckInMain {
 
         PathFinder path = new PathFinder();
 
+        NameWrite write = new NameWrite();
+
         log.info("Introduce su nombre para registrase");
         String nameUser = scan.nextLine();
 
         log.info("1.Introduce la ruta al fichero");
         File registerPath = path.findPath();
 
-        NameFinder.readFile(nameUser, registerPath);
+        write.writeToFile(registerPath, NameFinder.readFile(registerPath), nameUser);
 
     }
 }

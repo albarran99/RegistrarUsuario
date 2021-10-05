@@ -9,7 +9,8 @@ public class NameFinder {
 
     private static final Logger log = LoggerFactory.getLogger(CheckInMain.class);
 
-    public static void readFile(String text, File file) {
+    public static String readFile(File file) {
+        StringBuilder builder = new StringBuilder();
         try (BufferedReader reader =
                      new BufferedReader(
                              new FileReader(file)
@@ -17,20 +18,14 @@ public class NameFinder {
         ) {
             String line;
             while ((line = reader.readLine()) != null) {
-                if (line.contains(text)) {
-                    log.error("Usuario ya exixtente " + text);
-
+                builder.append(line).append("\n");
                 }
 
-            }
-            NameWrite write = new NameWrite();
-            write.writeToFile(file, text);
-            log.info("Usuario Registrado");
-
-
-        } catch (IOException e) {
-            e.printStackTrace();
+            } catch (IOException ioException) {
+            ioException.printStackTrace();
         }
+
+        return builder.toString();
 
     }
 }

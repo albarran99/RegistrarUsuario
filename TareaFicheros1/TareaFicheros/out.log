@@ -49889,3 +49889,35 @@ pero se a creado uno. ademas se a registrado al usuario
 2021-10-05 18:00:46 INFO  CheckInMain:18 - Introduce su nombre para registrase
 2021-10-05 18:00:52 INFO  CheckInMain:21 - 1.Introduce la ruta al fichero
 2021-10-05 18:00:54 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 19:59:41 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 19:59:51 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 19:59:51 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 19:59:54 INFO  CheckInMain:23 - El usuario ya esta registrado
+2021-10-05 20:00:20 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:00:23 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:00:23 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:00:26 INFO  CheckInMain:23 - El usuario ya esta registrado
+2021-10-05 20:01:14 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:01:16 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:01:16 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:01:19 INFO  CheckInMain:23 - El usuario ya esta registrado
+2021-10-05 20:01:50 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:01:57 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:01:59 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:02:56 INFO  CheckInMain:23 - El usuario ya esta registrado
+2021-10-05 20:04:53 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:04:57 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:04:57 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:05:17 INFO  CheckInMain:18 - Usuario registrado
+2021-10-05 20:06:22 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:06:25 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:06:26 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:06:28 INFO  CheckInMain:18 - Usuario registrado
+2021-10-05 20:06:42 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:06:46 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:06:46 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:06:48 INFO  CheckInMain:18 - Usuario registrado
+2021-10-05 20:06:58 INFO  CheckInMain:20 - Introduce su nombre para registrase
+2021-10-05 20:07:06 INFO  CheckInMain:23 - 1.Introduce la ruta al fichero
+2021-10-05 20:07:06 INFO  CheckInMain:15 - Introduce la ruta
+2021-10-05 20:07:08 INFO  CheckInMain:23 - El usuario ya esta registrado
